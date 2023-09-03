@@ -4,7 +4,7 @@
 
 import prismadb from "@/lib/primsadb"
 import BillboardClient from "./components/client"
-import { BillboardColumn } from "./components/columns"
+import { BillboardColumn } from './components/columns'
 import { format } from 'date-fns'
 
 
