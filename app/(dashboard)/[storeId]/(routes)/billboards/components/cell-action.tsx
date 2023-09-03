@@ -3,7 +3,7 @@
 
 
 import { Button } from "@/components/ui/button"
-import { BillboardColumn } from "./columns"
+import { BillboardColumn, columns } from './columns'
 
 import {
   DropdownMenu,

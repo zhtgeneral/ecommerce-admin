@@ -30,3 +30,5 @@ export const columns: ColumnDef<BillboardColumn>[] = [
     cell: ({row}) => <CellAction billboard={row.original} />
   }
 ]
+
+

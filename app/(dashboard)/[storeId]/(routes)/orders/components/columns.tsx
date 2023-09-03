@@ -5,7 +5,6 @@
 "use client"
 
 import { ColumnDef } from "@tanstack/react-table"
-import { CellAction } from "./cell-action"
 
 
 
